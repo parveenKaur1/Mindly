@@ -9,7 +9,12 @@
                  Eduardo Sanchez - linked the main page buttons to corresponding pages
                  October 23rd 
                  Jowaki Merani - reformat the code to work for database connections
-* KNOWN FAULT - None
+* PRECONDITIONS - No input values or types needed, this is the file where the app knows what page exists. if the page is not mentioned in this main. then the app cannot enter it.
+* POSTCONDITIONS - No return types
+* ERROR AND EXCEPTION CONDITION: Nonw
+* SIDE EFFECTS: None
+* INVARIANTS: None
+* KNOWN FAULTS - None 
 */
 import 'package:flutter/material.dart';
 import 'package:flutter_application_1/login/forgotPass_page.dart';
