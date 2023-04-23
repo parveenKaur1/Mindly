@@ -4,6 +4,11 @@
 // * PROGRAMMERS NAME - Parveen Kaur
 // * DATE CODE CREATED - January 28 2023
 // * DATE REVISED -
+/* PRECONDITIONS - reminder page must be navigated to by user.
+* POSTCONDITIONS - reminder added
+* ERROR AND EXCEPTION CONDITION: None
+* SIDE EFFECTS: None
+* INVARIANTS: None
 // * KNOWN FAULT - Unable to click back button
 // */
 import 'package:datetime_picker_formfield/datetime_picker_formfield.dart';

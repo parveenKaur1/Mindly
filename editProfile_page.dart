@@ -4,6 +4,11 @@
 * PROGRAMMERS NAME - Parveen Kaur
 * DATE CODE CREATED - 24th February 2023
 * DATE REVISED -
+* PRECONDITIONS - user must navigate to edit profile page.
+* POSTCONDITIONS - profile page is modified from the user.
+* ERROR AND EXCEPTION CONDITION: None
+* SIDE EFFECTS: None
+* INVARIANTS: None
 * KNOWN FAULT - None
 */
 import 'dart:developer';
