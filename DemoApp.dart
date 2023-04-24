@@ -13,6 +13,11 @@
                  Parveen Kaur - added constructors that take parameters.
                  March 9th
                  Parveen Kaur - added proper navigation between pages
+* PRECONDITIONS - NONE
+* POSTCONDITIONS - will navigate to one of the pages the user pushes on the app.
+* ERROR AND EXCEPTION CONDITION: None
+* SIDE EFFECTS: None
+* INVARIANTS: None
 * KNOWN FAULT - None
 */
 
