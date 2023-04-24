@@ -8,6 +8,8 @@
 *                Eduardo Sanchez - Text box for password and username
 *              - Jan 28th 
 *                Jowaki Merani - Added condition to check for valid entry 
+*                -April 18th
+*                Parveen Kaur- Added splash screen features
                - April 23rd 
                  Jui Nagarkar - added the comments according to the final sprint requirements   
 * PRECONDITIONS - The user must enter the correct credentials, the email and password in order to enter the app
